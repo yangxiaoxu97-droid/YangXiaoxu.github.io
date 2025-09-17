@@ -1,6 +1,5 @@
 
 
-[![Yang xiaoxu](https://img.shields.io/badge/Xiaoxu Yang-github-blue?logo=github)](yangxiaoxu97-droid)
 
 She is currently a PhD student in the Department of Engineer at The Hong Kong Polytechnic University.
 
